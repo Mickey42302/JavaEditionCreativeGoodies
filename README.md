@@ -1,4 +1,4 @@
-# Creative Menu Patch (Java Edition)
+# Creative Goodies (Java Edition)
 
 ## Introduction
 
