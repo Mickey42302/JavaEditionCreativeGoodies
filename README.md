@@ -2,9 +2,11 @@
 
 ## Introduction
 
-This Fabric mod adds hidden items to the Creative menu in Minecraft: Java Edition. It also adds some bug fixes and a custom texture to the Debug Stick.
+This Fabric mod adds unlisted items to the Creative menu in Minecraft: Java Edition. It also adds some bug fixes and a custom texture to the Debug Stick.
 
-To use this mod, you must have Fabric installed for 1.21.5. You also need to have the Fabric API mod installed.
+## Installation
+
+To install this mod, place the JAR file in your "mods" directory. You must also install the Fabric API.
 
 ## Disclaimer
 
