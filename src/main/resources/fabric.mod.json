@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "mickey42302-creative",
+  "version": "${version}",
+  "name": "Creative Goodies",
+  "description": "This mod adds more blocks/items to the Creative menu.",
+  "authors": [
+    "Mickey42302"
+  ],
+  "contact": {
+    "homepage": "https://linktr.ee/mickey42302",
+    "sources": "https://github.com/mickey42302"
+  },
+  "license": "All Rights Reserved",
+  "icon": "assets/mickey42302-creative/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mickey42302.creative.CreativeInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.10",
+    "minecraft": "~1.21.5",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

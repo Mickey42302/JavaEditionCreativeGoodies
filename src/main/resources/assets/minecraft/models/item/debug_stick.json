@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "mickey42302-creative:item/debug_stick"
+  }
+}
